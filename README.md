@@ -1,5 +1,4 @@
-# (Django Project)
-
+# Django Pyshop App
 > A simple online shopping web application for beginners to build Django project.
 
 ## Quick Start
