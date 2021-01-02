@@ -1,6 +1,18 @@
-# django-pyshop-app
-A simple django online shopping web application for beginners
+# Pollster App (Django project)
 
-cd django-pyshop-app
-# start the web development server at http://127.0.0.1:8000/
+> Python Django app to create polls with questions/choices
+
+## Quick Start
+``` bash
+cd pollster-django-crash
+# Install dependencies
+pip install pipenv
+
+pipenv shell
+# Install django
+pipenv install django
+
+cd pollster
+# Serve on localhost:8000
 python manage.py runserver
+```
