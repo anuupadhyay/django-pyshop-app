@@ -1,18 +1,10 @@
-# Pollster App (Django project)
+# (Django Project)
 
-> Python Django app to create polls with questions/choices
+> A simple online shopping web application for beginners to build Django project.
 
 ## Quick Start
 ``` bash
-cd pollster-django-crash
-# Install dependencies
-pip install pipenv
-
-pipenv shell
-# Install django
-pipenv install django
-
-cd pollster
-# Serve on localhost:8000
+cd django-pyshop-app
+# Start web development server at http://127.0.0.1:8000/
 python manage.py runserver
 ```
